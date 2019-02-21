@@ -1,5 +1,5 @@
 # Super-Interpolation
-Mathematica复现Super-Interpolation With Edge-Orientation-Based Mapping Kernels for Low Complex 2× Upscaling Jae-Seok Choi and Munchurl Kim (2016)
+Mathematica复现Super-Interpolation With Edge-Orientation-Based Mapping Kernels for Low Complex 2× Upscaling Jae-Seok Choi and Munchurl Kim (2015)
 
 ---
 - 使用getSamples[dir]加载训练图像列表l
